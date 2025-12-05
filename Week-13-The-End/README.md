@@ -5,7 +5,7 @@
 1. Read **Weekly Announcements** + **CTP mentorship program** message
 2. Any job search stories? [Job form](https://docs.google.com/forms/d/e/1FAIpQLSdp18OfCKTkB8ZndsytlQLU3G6gM1qe6JZDhm0LJJcYtFmwNA/viewform?usp=dialog)
 3. Demo is due **TODAY!!!**
-4. Demo night is confirmed: (PLEASE [RSVP]())
+4. Demo night is confirmed: (PLEASE [RSVP](https://www.eventbrite.com/e/cuny-tech-prep-demo-night-2025-tickets-1963449498304?aff=oddtdtcreator))
    - TIME: **Tuesday, December 09, 06:00 PM - 08:00 PM**
    - LOCATION: **LinkedIn Office - Empire State Building 350 5th Avenue, New York, NY 1011**
    - Be there at **05:00 PM**.  Show starts at 06:00 PM to 08:00 PM
@@ -26,6 +26,6 @@
 13. End of class activity:
     - Highs and lows
     - Name a new friend you made from CTP
-    - [after class] Open discussion on how they felt about this semester at CTP
+    - [after class] Open discussion on how you feel about this semester at CTP
 
 ---
